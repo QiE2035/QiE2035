@@ -32,7 +32,7 @@
 
 <div align="center">
 
-[![Tech Stack](https://skillicons.dev/icons?i=rust,python,c,java,kotlin,ts,go,powershell,php,sqlite,arch,alpine,docker,android&perline=7)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=rust,python,c,java,kotlin,ts,go,powershell,php,sqlite,arch,docker,android&perline=7)](https://skillicons.dev)
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -44,13 +44,14 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-![Alpine](https://img.shields.io/badge/Alpine-0D597F?style=flat-square&logo=alpine&logoColor=white)
+![Alpine](https://img.shields.io/badge/Alpine-0D597F?style=flat-square&logo=alpinelinux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![ImmortalWrt](https://img.shields.io/badge/ImmortalWrt-F4A020?style=flat-square&logo=openwrt&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 </div>
 
-> 大部分时间在 Windows；Linux 最爱 Arch，WSL 里装着 Alpine 跑 Docker；Android 上喜欢折腾 Zygisk / LSPosed / ReSukiSU 之类的模块。
+> 大部分时间在 Windows；Linux 最爱 Arch，WSL 里装着 Alpine 跑 Docker；路由器上刷了 ImmortalWrt；Android 上喜欢折腾 Zygisk / LSPosed / ReSukiSU 之类的模块。
 
 ## 📬 联系
 
