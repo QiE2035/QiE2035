@@ -25,7 +25,7 @@ Rust 工具链爱好者 · 偶尔折腾逆向 · 常驻 Windows / Android
 
 <div align="center">
 
-[![Tech Stack](https://skillicons.dev/icons?i=rust,python,c,cpp,cs,java,kotlin,ts,go,powershell,bash,php,sqlite,arch,docker,android&perline=8)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=rust,python,c,cpp,cs,java,kotlin,ts,go,powershell,bash,php,sqlite,arch,docker,androidstudio&perline=8)](https://skillicons.dev)
 
 </div>
 
