@@ -5,12 +5,13 @@
 **工具链爱好者 · 偶尔折腾逆向 · 常驻 Windows / Android**
 
 ![Followers](https://img.shields.io/github/followers/QiE2035?style=flat-square&logo=github&logoColor=white&label=Followers&color=1f6feb)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FQiE2035&query=public_repos&label=Repos&logo=github&logoColor=white&color=8957e5&cacheSeconds=1800)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=QiE2035.QiE2035)
 
-最近的重心是 **Rust 工具链**与开源贡献：给日常在用的工具写替代品，顺手修上游的 bug。
+最近在折腾 **Rust 工具链**与开源贡献——给日常在用的工具写替代品，顺手修上游的 bug。
 
 </div>
+
+---
 
 ## 🔭 正在做
 
@@ -18,7 +19,10 @@
 - [`sqlite-basename`](https://github.com/QiE2035/sqlite-basename) — SQLite 加载型扩展 `basename()`，约 111 KB、零外部依赖
 - [`cargo-gc`](https://github.com/QiE2035/cargo-gc) — 清理 cargo 构建缓存（进行中）
 - [`ScoopQiE2035`](https://github.com/QiE2035/ScoopQiE2035) — 自用 Scoop bucket
-- 上游贡献：[`sqlite3_ext`](https://github.com/CGamesPlay/sqlite3_ext)（Windows 构建修复已合并）、[`Polymerium`](https://github.com/d3ara1n/Polymerium)、[`monbooru`](https://github.com/monbooru/monbooru)
+- 上游贡献：[`sqlite3_ext`](https://github.com/CGamesPlay/sqlite3_ext) Windows 构建修复已合并
+- 上游贡献：[`Polymerium`](https://github.com/d3ara1n/Polymerium) / [`monbooru`](https://github.com/monbooru/monbooru)
+
+---
 
 ## 🚀 回顾
 
@@ -28,11 +32,11 @@
 - [`ScoopMaster`](https://github.com/QiE2035/ScoopMaster) ⭐ 5 — Scoop 元 bucket 的维护 fork
 - [`hp-g160-driver`](https://github.com/QiE2035/hp-g160-driver) — HP 游戏鼠标的 Python 驱动
 
+---
+
 ## 🧰 技术栈
 
 <div align="center">
-
-[![Tech Stack](https://skillicons.dev/icons?i=rust,python,c,cpp,cs,java,kotlin,ts,go,powershell,bash,php,sqlite,arch,docker,android&perline=8)](https://skillicons.dev)
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -54,12 +58,11 @@
 
 </div>
 
-> 大部分时间在 Windows；Linux 最爱 Arch，WSL 里装着 Alpine 跑 Docker；路由器上刷了 ImmortalWrt；Android 上喜欢折腾 Zygisk / LSPosed / ReSukiSU 之类的模块。
+> 大部分时间在 Windows；WSL 里装着 Alpine 跑 Docker；路由器刷了 ImmortalWrt；Android 上折腾 Zygisk / LSPosed / ReSukiSU。
 
-## 📬 联系
+---
 
-- GitHub Issues / Discussion
-- qie2035@qq.com
+📬 `qie2035@qq.com` · GitHub Issues / Discussion
 
 <div align="center">
 
