@@ -5,7 +5,7 @@
 **工具链爱好者 · 偶尔折腾逆向 · 常驻 Windows / Linux**
 
 ![Followers](https://img.shields.io/github/followers/QiE2035?style=flat-square&logo=github&logoColor=white&label=Followers&color=1f6feb)
-![Repos](https://img.shields.io/github/repos/QiE2035?style=flat-square&logo=github&logoColor=white&label=Repos&color=8957e5)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FQiE2035&query=public_repos&label=Repos&logo=github&logoColor=white&color=8957e5)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=QiE2035.QiE2035)
 
 最近的重心是 **Rust 工具链**与开源贡献：给日常在用的工具写替代品，顺手修上游的 bug。
@@ -59,6 +59,10 @@
 
 ### 📊 GitHub 统计
 
-<img src="https://stats.justsong.cn/api/github?username=QiE2035&theme=dark" alt="GitHub Stats">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://stats.justsong.cn/api/github?username=QiE2035&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://stats.justsong.cn/api/github?username=QiE2035&theme=light">
+  <img alt="GitHub Stats" src="https://stats.justsong.cn/api/github?username=QiE2035&theme=light">
+</picture>
 
 </div>
