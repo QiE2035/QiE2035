@@ -2,6 +2,9 @@
 
 学生 · 工具链爱好者 · 偶尔折腾逆向
 
+![Followers](https://img.shields.io/github/followers/QiE2035?style=flat-square&logo=github&logoColor=white&label=Followers&color=1f6feb)
+![Repos](https://img.shields.io/github/repos/QiE2035?style=flat-square&logo=github&logoColor=white&label=Repos&color=8957e5)
+
 目前的重心是 **Rust 工具链**：给日常在用的工具写更顺手的替代品，并向上游提 PR 回馈社区。
 
 ## 🔭 正在做
@@ -22,7 +25,17 @@
 
 ## 🧰 技术栈
 
-Rust · Python · C · Java · Kotlin · TypeScript · Go · PowerShell · PHP · SQL
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ed8b00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 
 日常在 Windows（Scoop / PowerShell）与 Linux 之间反复横跳，写过 STM32 小车、数据库课设和若干游戏脚本。
 
@@ -31,4 +44,4 @@ Rust · Python · C · Java · Kotlin · TypeScript · Go · PowerShell · PHP �
 - GitHub Issues / Discussion
 - qie2035@qq.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QiE2035&show_icons=true&theme=default&locale=cn)
+![GitHub Stats](https://stats.justsong.cn/api/github?username=QiE2035)
