@@ -26,11 +26,15 @@
 
 ## 🚀 回顾
 
-- [`gs_bili`](https://github.com/QiE2035/gs_bili) ⭐ 23 — 让 Linux 也能玩上 B 服原神
-- [`moc3-reader-re`](https://github.com/QiE2035/moc3-reader-re) ⭐ 17 — 逆向 Live2D Cubism 得到的 moc3 读取器
-- [`NeuralCloudEnhancer`](https://github.com/QiE2035/NeuralCloudEnhancer) ⭐ 8 — 云图计划自动化脚本（已弃坑）
-- [`ScoopMaster`](https://github.com/QiE2035/ScoopMaster) ⭐ 5 — Scoop 元 bucket 的维护 fork
-- [`hp-g160-driver`](https://github.com/QiE2035/hp-g160-driver) — HP 游戏鼠标的 Python 驱动
+[![gs_bili stars](https://img.shields.io/github/stars/QiE2035/gs_bili?style=flat-square&logo=github&logoColor=white&color=yellow)](https://github.com/QiE2035/gs_bili) [`gs_bili`](https://github.com/QiE2035/gs_bili) — 让 Linux 也能玩上 B 服原神
+
+[![moc3-reader-re stars](https://img.shields.io/github/stars/QiE2035/moc3-reader-re?style=flat-square&logo=github&logoColor=white&color=yellow)](https://github.com/QiE2035/moc3-reader-re) [`moc3-reader-re`](https://github.com/QiE2035/moc3-reader-re) — 逆向 Live2D Cubism 得到的 moc3 读取器
+
+[![NeuralCloudEnhancer stars](https://img.shields.io/github/stars/QiE2035/NeuralCloudEnhancer?style=flat-square&logo=github&logoColor=white&color=yellow)](https://github.com/QiE2035/NeuralCloudEnhancer) [`NeuralCloudEnhancer`](https://github.com/QiE2035/NeuralCloudEnhancer) — 云图计划自动化脚本（已弃坑）
+
+[![ScoopMaster stars](https://img.shields.io/github/stars/QiE2035/ScoopMaster?style=flat-square&logo=github&logoColor=white&color=yellow)](https://github.com/QiE2035/ScoopMaster) [`ScoopMaster`](https://github.com/QiE2035/ScoopMaster) — Scoop 元 bucket 的维护 fork
+
+[`hp-g160-driver`](https://github.com/QiE2035/hp-g160-driver) — HP 游戏鼠标的 Python 驱动
 
 ---
 
