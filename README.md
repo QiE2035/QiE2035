@@ -5,7 +5,7 @@
 **工具链爱好者 · 偶尔折腾逆向 · 常驻 Windows / Android**
 
 ![Followers](https://img.shields.io/github/followers/QiE2035?style=flat-square&logo=github&logoColor=white&label=Followers&color=1f6feb)
-![Repos](https://img.shields.io/badge/Repos-32-8957e5?style=flat-square&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FQiE2035&query=public_repos&label=Repos&logo=github&logoColor=white&color=8957e5&cacheSeconds=1800)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=QiE2035.QiE2035)
 
 最近的重心是 **Rust 工具链**与开源贡献：给日常在用的工具写替代品，顺手修上游的 bug。
@@ -32,11 +32,12 @@
 
 <div align="center">
 
-[![Tech Stack](https://skillicons.dev/icons?i=rust,python,c,cs,java,kotlin,ts,go,powershell,bash,php,sqlite,arch,docker,android&perline=7)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=rust,python,c,cpp,cs,java,kotlin,ts,go,powershell,bash,php,sqlite,arch,docker,android&perline=8)](https://skillicons.dev)
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ed8b00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
