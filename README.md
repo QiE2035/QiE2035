@@ -2,7 +2,7 @@
 
 # 企鹅2035 · QiE2035
 
-**工具链爱好者 · 偶尔折腾逆向 · 常驻 Windows / Linux**
+**工具链爱好者 · 偶尔折腾逆向 · 常驻 Windows / Android**
 
 ![Followers](https://img.shields.io/github/followers/QiE2035?style=flat-square&logo=github&logoColor=white&label=Followers&color=1f6feb)
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FQiE2035&query=public_repos&label=Repos&logo=github&logoColor=white&color=8957e5)
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-[![Tech Stack](https://skillicons.dev/icons?i=rust,python,c,java,kotlin,ts,go,powershell,php,sqlite)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=rust,python,c,java,kotlin,ts,go,powershell,php,sqlite,arch,docker,android&perline=7)](https://skillicons.dev)
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -43,12 +43,13 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 </div>
 
-> 日常在 Windows（Scoop / PowerShell）与 Linux 之间反复横跳。
+> 大部分时间在 Windows；WSL 里装着 Arch 跑 Docker；Android 上喜欢折腾 Zygisk / LSPosed / ReSukiSU 之类的模块。
 
 ## 📬 联系
 
