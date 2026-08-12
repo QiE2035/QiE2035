@@ -5,7 +5,7 @@
 **工具链爱好者 · 偶尔折腾逆向 · 常驻 Windows / Android**
 
 ![Followers](https://img.shields.io/github/followers/QiE2035?style=flat-square&logo=github&logoColor=white&label=Followers&color=1f6feb)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FQiE2035&query=public_repos&label=Public+Repos&logo=github&logoColor=white&color=8957e5&cacheSeconds=300)
+![Repos](https://img.shields.io/badge/Repos-32-8957e5?style=flat-square&logo=github&logoColor=white)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=QiE2035.QiE2035)
 
 最近的重心是 **Rust 工具链**与开源贡献：给日常在用的工具写替代品，顺手修上游的 bug。
@@ -42,7 +42,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=windowsTerminal&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch-1793D1?style=flat-square&logo=archlinux&logoColor=white)
