@@ -1,8 +1,8 @@
 <div align="center">
 
-### Hi there 👋
-
-最近在折腾 **Rust 工具链**与开源贡献——给日常在用的工具写替代品，顺手修上游的 bug。
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=你好，我是企鹅2035;Rust+工具链爱好者;偶尔折腾逆向;Welcome+to+my+profile!&font=Fira+Code&center=true&width=500&height=45&color=36BCF7&vCenter=true&size=20" />
+</a>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=QiE2035.QiE2035)
 
@@ -37,11 +37,20 @@
 
 ### 📊 GitHub 统计
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://stats.justsong.cn/api/github?username=QiE2035&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://stats.justsong.cn/api/github?username=QiE2035&theme=light">
-  <img alt="GitHub Stats" src="https://stats.justsong.cn/api/github?username=QiE2035&theme=light">
-</picture>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QiE2035&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=QiE2035&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QiE2035&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+</a>
 
 </div>
 
